@@ -1,3 +1,7 @@
+v2.5.0
+================
+* Added boxplot colors
+* Added heatmap colors
 v2.4.1
 ================
 * Added new datetime-picker var
